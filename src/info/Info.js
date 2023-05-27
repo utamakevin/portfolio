@@ -22,12 +22,12 @@ export const info = {
             text: 'based in Melbourne'
         },
         {
-            emoji: "💼",
-            text: "career changer"
+            emoji: "🧑🏼‍🏫",
+            text: "teacher turned software engineer"
         },
         {
-            emoji: '📱',
-            text: 'sends unsolicited curated memes'
+            emoji: '🤔',
+            text: 'hungry for knowledge'
         },
         {
             emoji: "📧",
@@ -47,11 +47,11 @@ export const info = {
         },
 
     ],
-    bio: "Hello! I'm Kevin. After years working as a teacher, I am ready to break into a career in tech. I recently completed a 500+ hours Software Engineering bootcamp with General Assembly. As a teacher, I believe that education can be sourced from anywhere but should not be left to chance. You should hire me!",
+    bio: "Hello! I'm Kevin. After years working as a teacher, I am ready to break into a career in tech. I recently completed a 500+ hours Software Engineering bootcamp with General Assembly. As a teacher, I believe that education can be sourced from anywhere but should not be left to chance. Let's chat!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'html5', 'css3', 'express', 'nodejs', 'git', 'github',   'figma'],
-            exposedTo: ['bootstrap', 'firebase', 'mongodb']
+            proficientWith: ['javascript', 'react', 'html5', 'css3', 'postgresql', 'express', 'nodejs', 'git', 'github',   'figma'],
+            exposedTo: ['bootstrap', 'firebase', 'mongodb', 'python']
         }
     ,
     hobbies: [
