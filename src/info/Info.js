@@ -26,7 +26,7 @@ export const info = {
             text: "teacher turned software engineer"
         },
         {
-            emoji: '💡',
+            emoji: '🤔',
             text: 'hungry for knowledge'
         },
         {
